@@ -1,21 +1,21 @@
-﻿Address,Pg,Built,Units
-420 San Antonio,3,1,373
-2580 California St,4,0.26,632
-1701 ECR,7,1,24
-1101 ECR,8,1,52
-801 ECR,8,1,164
-870 ECR,9,0,333
-235 Hope Street,14,0,7
-827 N Rengstorff,15,1,24
-585 Sierra Vista,16,1,4
-2392 Rock St,17,1,3
-333 N Rengstorff,18,1,29
-2024 Montecito,19,1,18
-133 Fairchild Dr.,20,1,38
-277 Fairchild Dr,21,1,30
+﻿address,page,pct_built,units
+420 San Antonio Road,3,1,373
+2580 California Street,4,0.26,632
+1701 W. El Camino Real,7,1,24
+1101 W. El Camino Real,8,1,52
+801 W. El Camino Real,8,1,164
+870 E. El Camino Real,9,0,333
+235 Hope St.,14,0,7
+827 N. Rengstorff Ave,15,1,24
+585 Sierra Vista Ave,16,1,4
+2392 Rock Street,17,1,3
+333 N Rengstorff Ave,18,1,29
+2024 Montecito Ave,19,0,18
+149 Fairchild Drive,20,1,38
+277 Fairchild Drive,21,1,30
 450 N. Whisman,21,1,37
-167 N. Whisman ,22,0,2
-Pacific Dr.,23,1,16
-Ferguson Rd,23,1,584
+167 N. Whisman,22,0,2
+Pacific Drive,23,1,16
+Ferguson Road,23,1,584
 Mora-Ortega,23,1,85
-1991 Sun Mor Ave,25,1,13
+1991 Sun Mor,25,1,13
